@@ -1,15 +1,45 @@
-# Social-plug
+<!DOCTYPE html>
+<html>
+<head>
+  <title>VERIFYLOGS MARKETPLACE - Buy Accounts & Numbers</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {background: #0a0a0a; color: white; font-family: Arial; margin: 0; padding: 0;}
+    .header {background: #111; padding: 15px; display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #FF8C00;}
+    .logo {font-size: 18px; font-weight: bold; color: #FF8C00;}
+    .banner {background: linear-gradient(90deg, #FF8C00, #111); padding: 30px 20px;}
+    .card {background: #1a1a1a; margin: 15px; padding: 20px; border-radius: 12px;}
+    .grid {display: grid; grid-template-columns: 1fr 1fr; gap: 10px; padding: 10px;}
+    .stat {background: #1a1a1a; padding: 20px; border-radius: 12px; border: 1px solid #333; text-align: center;}
+    .btn {background: #FF8C00; color: black; padding: 15px; border-radius: 10px; text-align: center; text-decoration: none; display: block; font-weight: bold; margin: 10px 0;}
+    .whatsapp {position: fixed; bottom: 20px; right: 20px; background: #25D366; padding: 15px; border-radius: 50%; font-size: 24px; text-decoration: none;}
+  </style>
+</head>
+<body>
+  <div class="header">
+    <div class="logo">🔶 VERIFYLOGS MARKETPLACE</div>
+    <div>₦0</div>
+  </div>
 
-A simple social plugin/marketplace tool.
+  <div class="banner">
+    <h2>Welcome to VERIFYLOGS MARKETPLACE</h2>
+    <p>Need seamless global access? We provide fresh social media accounts, VPN, reliable international virtual numbers from anywhere in the world. 24/7 Support.</p>
+  </div>
 
-## How to use
-1. Download the files
-2. Open `index.html` in your browser
+  <div class="grid">
+    <div class="stat"><h3>₦0</h3><p>Wallet Balance</p></div>
+    <div class="stat"><h3>0</h3><p>Numbers Purchased</p></div>
+    <div class="stat"><h3>Active</h3><p>SMS Server Status</p></div>
+    <div class="stat"><h3>₦0</h3><p>Total Funded</p></div>
+  </div>
 
-## Features
-- Add your features here
-
-## Built with
-- HTML
-- CSS
-- JavaScript 
+  <div style="padding: 10px;">
+    <h3>Quick Actions</h3>
+    <div class="card">
+      <a class="btn" href="https://wa.me/2348114998691?text=Hi%20VERIFYLOGS%20I%20want%20to%20buy%20numbers">📞 Buy Numbers - All Countries</a>
+    </div>
+    <div class="card">
+      <a class="btn" href="https://wa.me/2348114998691?text=Hi%20VERIFYLOGS%20I%20want%20to%20buy%20USA%20numbers">📞 Buy USA Numbers</a>
+    </div>
+    <div class="card">
+      <a class="btn" href="https://wa.me/2348114998691?text=Hi%20VERIFYLOGS%20I%20want%20to%20buy%20social%
